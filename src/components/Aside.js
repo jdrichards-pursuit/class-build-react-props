@@ -1,3 +1,6 @@
+const x = 3 > 5 ? false : true;
+console.log(x);
+
 function Aside({ dogs }) {
   return (
     <aside>
